@@ -1,0 +1,985 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.cont img {
+    width: 1900px;
+}
+
+.cont h1 {
+    margin-top: -700px;
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    margin: 30px 20px;
+    background-color: gray;
+}
+
+
+button:hover {
+    background-color: rgb(202, 199, 199);
+}
+
+
+.cont h4 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.cont h5 {
+    font-family: sans-serif;
+    width: 190px;
+    height: 50px;
+    border: 3px solid white;
+    margin: 50px 100px;
+    color: white;
+}
+
+.im {
+    font-size: 20px;
+    color: rgb(165, 157, 157);
+    margin: 383px 50px;
+}
+
+.im i:hover {
+    color: rgb(72, 68, 68);
+}
+
+.inf .yag h1 {
+    margin-top: -105px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.inf .yag h3 {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 100;
+}
+
+.inlar .adin i {
+    font-size: 50px;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.inlar .adin {
+    border: 1px solid rgb(255, 255, 255);
+    width: 500px;
+    height: 150px;
+    margin: 0px 10px;
+
+}
+
+.inlar .adin p {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.inlar .adin h3 {
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+.inlar .dva {
+    border: 1px solid rgb(255, 255, 255);
+    width: 500px;
+    height: 150px;
+    margin-left: 490px;
+    margin-top: -152px;
+}
+
+.inlar .dva i {
+    font-size: 50px;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.inlar .dva h3 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.inlar .dva p {
+    text-align: center;
+}
+
+.inlar .tri {
+    border: 1px solid rgb(255, 255, 255);
+    width: 500px;
+    height: 150px;
+    margin-left: 985px;
+    margin-top: -150px;
+}
+
+.inlar .tri i {
+    font-size: 50px;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.inlar .tri p {
+    text-align: center;
+}
+
+.inlar .tri h3 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+nav {
+   
+    height: 25px;
+    background-color: white;
+    display: flex;
+    list-style: none;
+}
+
+nav li a {
+    color: gray;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: black;
+    margin: 20px;
+
+}
+
+nav {
+    margin-left: 1300px;
+
+}
+
+nav li:hover {
+    background-color: gray;
+    color: black;
+    
+}
+nav li{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.t h3 {
+    font-family: sans-serif;
+    font-weight: 100;
+    color: gray;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.chitiri {
+    border: 1px solid rgb(255, 255, 255);
+    width: 500px;
+    height: 150px;
+    margin-left: 1480px;
+    margin-top: -160px;
+}
+
+.chitiri i {
+    font-size: 50px;
+    text-align: center;
+    margin-left: 230px;
+}
+
+.chitiri h3 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.chitiri p {
+    text-align: center;
+}
+
+.grayy {
+
+    height: 450px;
+    background-color: rgb(223, 222, 222);
+}
+
+.grayy img {
+    width: 500px;
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+
+.grayy h2 {
+    font-family: sans-serif;
+    margin-top: -270px;
+    font-weight: 100;
+    margin-left: 50px;
+}
+
+.grayy p {
+    border: 1px solid rgb(223, 222, 222);
+    width: 400px;
+    text-align: center;
+}
+
+.iimg img {
+    filter: grayscale(80%);
+}
+
+
+.grayy .ss {
+    width: 140px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    margin: 20px 80px;
+    text-align: center;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+.grayy .ss:hover {
+    background-color: gray;
+}
+
+.iimg {
+    height: 800px;
+
+}
+
+.iimg h1 {
+    font-weight: 100;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.iimg h3 {
+    font-weight: 100;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.iimg .ia img {
+    width: 400px;
+    margin: 50px 50px;
+}
+
+.iimg .ia .tp {
+    width: 400px;
+    height: 250px;
+    border: 2px solid rgb(66, 65, 65);
+    box-shadow: 1px 0px 5px rgb(185, 180, 180);
+    margin-top: -55px;
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+
+.iimg .ia .tp h4 {
+    text-align: center;
+}
+
+.iimg .ia .tp p {
+    text-align: center;
+}
+
+.iimg .ia .tp .poch {
+    width: 350px;
+    height: 30px;
+    background-color: rgb(232, 230, 230);
+    margin-left: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.iimg .ia .tp .poch:hover {
+    background-color: rgb(197, 190, 190);
+}
+
+.iimg .haha img {
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -9999px;
+    background-color: black;
+    filter: brightness(black);
+}
+
+.iimg .haha .ha {
+    width: 400px;
+    height: 250px;
+    border: 2px solid rgb(66, 65, 65);
+    box-shadow: 1px 0px 5px gray;
+    margin-top: -5px;
+    margin-left: 500px;
+    font-family: sans-serif;
+}
+
+.iimg .haha {
+    margin-top: -255px;
+}
+
+.iimg .haha .ha h4 {
+    text-align: center;
+}
+
+.iimg .haha .ha p {
+    text-align: center;
+}
+
+.iimg .haha .ha .poc {
+    width: 350px;
+    height: 30px;
+    background-color: rgb(232, 230, 230);
+    margin-left: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.iimg .haha .ha .poc:hover {
+    background-color: rgb(197, 190, 190);
+}
+
+
+.iimg .ee img {
+    width: 400px;
+    margin-left: 950px;
+    margin-top: -9999px;
+    background-color: black;
+    filter: brightness(black);
+}
+
+
+.iimg .ee .e {
+    width: 400px;
+    height: 250px;
+    border: 2px solid rgb(66, 65, 65);
+    box-shadow: 1px 0px 5px gray;
+    margin-top: -5px;
+    margin-left: 950px;
+    font-family: sans-serif;
+}
+
+.iimg .ee {
+    margin-top: -259px;
+}
+
+.iimg .ee .e h4 {
+    text-align: center;
+}
+
+.iimg .ee .e p {
+    text-align: center;
+}
+
+.iimg .ee .e .po {
+    width: 350px;
+    height: 30px;
+    background-color: rgb(232, 230, 230);
+    margin-left: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.iimg .ee .e .po:hover {
+    background-color: rgb(197, 190, 190);
+}
+
+.iimg .ea img {
+    width: 400px;
+    margin-left: 1400px;
+    margin-top: -9999px;
+    background-color: black;
+    filter: brightness(black);
+}
+
+
+.iimg .ea .ae {
+    width: 400px;
+    height: 250px;
+    border: 2px solid rgb(66, 65, 65);
+    box-shadow: 1px 0px 5px gray;
+    margin-top: -5px;
+    margin-left: 1400px;
+    font-family: sans-serif;
+}
+
+.iimg .ea {
+    margin-top: -259px;
+}
+
+.iimg .ea .ae h4 {
+    text-align: center;
+}
+
+.iimg .ea .ae p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.iimg .ea .ae .pok {
+    width: 350px;
+    height: 30px;
+    background-color: rgb(232, 230, 230);
+    margin-left: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+
+
+.iimg .ea .ae .pok:hover {
+    background-color: rgb(197, 190, 190);
+}
+
+
+.siyo {
+    height: 200px;
+    background-color: #616161;
+}
+
+.siyo .mat {
+    color: white;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+
+}
+
+
+.mat .z {
+    margin-top: 60px;
+}
+
+.mat .bb {
+    margin-top: 60px;
+}
+
+.mat .vv {
+    margin-top: 60px;
+}
+
+.mat .cc {
+    margin-top: 60px;
+}
+
+.opo {
+font-family: sans-serif;
+margin-top: 100px;
+font-weight: 200;
+text-align: center;
+color: gray;
+}
+
+.opo .rasm img{
+    width: 450px;
+    margin-right: 1350px;
+
+}
+
+.opo .rasm .ll img{
+    margin-left: 520px;
+    margin-top: -550px;
+}
+.opo .rasm img:hover{
+        filter: blur(5px);
+    filter: brightness(150%);
+
+}
+
+
+.opo .rasm .ccss img{
+    margin-left: 1000px;
+    margin-top: -600px;
+    padding-top: -700px;
+}
+
+.opo .rasm .kklo img{
+ margin-left: 1470px;
+ margin-top: -800px;
+}
+
+.opo .rasm .jama img{
+    margin-left: 520px;
+    margin-top: -700px;
+}
+
+.opo .rasm .sobit img{
+    margin-left: 1000px;
+    margin-top: -800px;
+}
+
+.opo .rasm .xayri img{
+    margin-left: 1480px;
+    margin-top: -1000px;
+}
+
+
+.engg{
+    height: 300px;
+    background-color: #F1F1F1;
+    margin-top: 200px;
+}
+
+.engg h2{
+    font-family: sans-serif;
+font-weight: 100;
+margin-left: 50px;
+}
+
+.engg p{
+    font-family: sans-serif;
+    margin-left: 50px;
+    border: 1px solid #F1F1F1;
+    width: 400px;
+    text-align: center;
+}
+.boxic .sd{
+margin-left: 1100px;
+margin-top: -140px;
+font-family: sans-serif;
+}
+
+.boxic .arm{
+    margin-left: 1100px;
+margin-top: 15px;
+text-align: center;
+color: white;
+background-color: #616161;
+width: 600px;
+}
+
+.boxic .fg{
+    width: 100px;
+    height: 18px;
+    background-color: rgb(161, 161, 161);
+    margin-left: 1700px;
+    margin-top: -18px;
+}
+
+.boxic .dudu{
+    margin-left: 1100px;
+    margin-top: 13px;
+    font-family: sans-serif;
+    }
+
+    .boxic .du{
+        margin-left: 1100px;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+    background-color: #616161;
+    width: 600px;
+font-family: 'Times New Roman', Times, serif;
+    }
+
+    .boxic .dududu{
+        width: 140px;
+        height: 18px;
+        background-color: rgb(161, 161, 161);
+        margin-left: 1660px;
+        margin-top: -18px;
+    }
+    .boxic .sss{
+        margin-left: 1100px;
+        margin-top: 13px;
+        font-family: sans-serif;
+        }
+
+        .boxic .s{
+            margin-left: 1100px;
+        margin-top: 15px;
+        text-align: center;
+        color: white;
+        background-color: #616161;
+        width: 580px;
+    font-family: 'Times New Roman', Times, serif;
+        }
+    
+
+        .boxic .ss{
+            width: 170px;
+            height: 18px;
+            background-color: rgb(161, 161, 161);
+            margin-left: 1630px;
+            margin-top: -18px;
+        }
+
+
+
+        .shoh{
+            height: 1000px;
+background-color: #616161;
+        }
+
+        .shoh h1{
+            font-family: sans-serif;
+            color: white;
+            text-align: center;
+          font-weight: 100;
+        }
+
+        .shoh h2{
+            font-family: sans-serif;
+            text-align: center;
+            color: white;
+            font-weight: 100;
+        }
+
+        .shoh .bro{
+            width: 500px;
+            height: 500px;
+            border: 1px solid black;
+            box-shadow: 1px 0px 1px rgb(0, 0, 0);
+            margin: 50px 30px;
+            margin-left: 50px;
+        }
+
+        .shoh .bro h2{
+            color: white;
+            font-family: sans-serif;
+            border: 2px solid black;
+            height: 100px;
+            background-color: black;
+            line-height: 100px;
+        }
+
+        .shoh .bro h3{
+            font-family: sans-serif;
+            text-align: center;
+            height: 50px;
+            border-bottom: 1px solid #6b6767;
+            background-color: white;
+            line-height: 50px;
+        }
+
+        .shoh .bro h1{
+            font-size: 50px;
+            color: black;
+
+        }
+
+        .shoh .bro h4{
+            color: #757474;
+            font-family: sans-serif;
+            text-align: center;
+        }
+
+        
+        .shoh .bro .mml{
+            border: 1px solid rgb(136, 130, 130);
+height: 120px;
+background-color: white;
+        }
+
+
+        .shoh .bro .sig{
+            height: 80px;
+            background-color: #e0dede;
+        }
+
+
+        .shoh .bro .sig h5{
+             text-align: center; 
+             color: white;
+            width: 100px;
+            height: 50px;
+            font-family: sans-serif;
+          font-size: 20px;
+            background-color: black;
+            line-height: 50px;
+            margin-left: 200px;
+        }
+
+        .shoh .bro .sig h5:hover{
+            background-color: rgb(209, 203, 203);
+        }
+
+
+
+        .shoh .abu{
+            width: 500px;
+            height: 580px;
+            border: 1px solid black;
+            box-shadow: 1px 0px 1px rgb(0, 0, 0);
+       margin-left: 670px;
+       margin-top: -580px;
+        }
+
+
+        .shoh .abu h2{
+            color: white;
+            font-family: sans-serif;
+            border: 2px solid rgb(255, 0, 0);
+            height: 150px;
+            background-color: rgb(255, 0, 0);
+            line-height: 150px;
+        }
+
+        .shoh .abu h3{
+            font-family: sans-serif;
+            text-align: center;
+            height: 70px;
+            border-bottom: 1px solid #6b6767;
+            background-color: white;
+            line-height: 70px;
+        }
+
+        
+        .shoh .abu .hj h1{
+            font-size: 50px;
+            color: black;
+         
+        }
+
+        .shoh .abu .hj{
+            background-color: white;
+            height: 90px;
+        }
+
+        .shoh .abu .hj h5{
+            color: gray;
+            text-align: center;
+        }
+
+
+        .shoh .abu .up h4{
+            text-align: center; 
+            color: white;
+           width: 100px;
+           height: 50px;
+           font-family: sans-serif;
+         font-size: 20px;
+           background-color: black;
+           line-height: 50px;
+           margin-left: 200px;
+       }
+
+       .shoh .abu .up h4:hover{
+           background-color: rgb(209, 203, 203);
+       }
+
+       .shoh .abu .up{
+        background-color: white;
+        border-top: 1px solid gray;
+        height: 70px;
+       }
+       .shoh .khan{
+        width: 500px;
+        height: 500px;
+        border: 1px solid black;
+        box-shadow: 1px 0px 1px rgb(0, 0, 0);
+        margin-left:1300px;
+        margin-top: -530px;
+       }
+
+       .shoh .khan h2{
+        color: white;
+        font-family: sans-serif;
+        border: 2px solid black;
+        height: 100px;
+        background-color: black;
+        line-height: 100px;
+    }
+    .shoh .khan h3{
+        font-family: sans-serif;
+        text-align: center;
+        height: 50px;
+        border-bottom: 1px solid #6b6767;
+        background-color: white;
+        line-height: 50px;
+    }
+
+            
+    .shoh .khan .om{
+        border: 1px solid rgb(136, 130, 130);
+height: 120px;
+background-color: white;
+    }
+
+
+    .shoh .khan  h1{
+        font-size: 50px;
+        color: black;
+
+    }
+
+    .shoh .om h5{
+        color: #757474;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    
+    .shoh .khan .mo{
+        height: 80px;
+        background-color: #e0dede;
+    }
+
+
+    .shoh .khan .mo h6{
+         text-align: center; 
+         color: white;
+        width: 100px;
+        height: 50px;
+        font-family: sans-serif;
+      font-size: 20px;
+        background-color: black;
+        line-height: 50px;
+        margin-left: 200px;
+    }
+
+    .shoh .khan .mo h6:hover{
+        background-color: rgb(209, 203, 203);
+    }
+
+    .html{
+        height: 700px;
+        background-color: rgb(251, 251, 251);
+    }
+
+    .html h1{
+        font-family: sans-serif;
+        font-weight: 100;
+        text-align: center;
+    }
+
+    
+    .html h3{
+        font-family: sans-serif;
+        font-weight: 100;
+        text-align: center;
+    }
+
+    .html .karta i{
+        font-size: 50px;
+    }
+
+    .html .karta {
+        display: flex;
+    }
+
+    .html h4{
+        font-size: 30px; 
+        font-family: sans-serif;
+        margin-top: 10px;
+    }
+
+    .html .tele i{
+        font-size: 50px;
+    }
+
+    .html .tele {
+        display: flex;
+    }
+
+    .html h4{
+        font-size: 30px; 
+        font-family: sans-serif;
+        margin-top: 10px;
+    }
+
+    
+    .html .pochta i{
+        font-size: 50px;
+    }
+
+    .html .pochta {
+        display: flex;
+    }
+
+    .html h4{
+        font-size: 30px; 
+        font-family: sans-serif;
+        margin-top: 10px;
+    }
+
+    .html .inp input{
+        width: 1800px;
+        height: 50px;
+    font-size: 30px;
+    color: black;
+ }
+    .html .inp{
+        margin-left: 20px;
+    }
+
+    .html h2{
+        font-family: sans-serif;
+        width: 300px;
+        height: 50px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        line-height: 50px;
+        margin-left: 50px;
+        font-weight: 100;
+    }
+
+    .html h2:hover{
+        background-color: #d5d2d2;
+        color: black;
+    }
+
+
+    .ox img{
+        text-align: center;
+       margin-left: 50px;
+        width: 1800px;
+        filter: grayscale(80%);
+    }
+
+    .urru{
+        height: 400px;
+        background-color: black;
+    }
+
+    .urru h3{
+        width: 150px;
+        height: 50px;
+        background-color: white;
+        font-family: sans-serif;
+        text-align: center;
+        line-height: 50px;
+        margin-left: 800px;
+        
+    }
+
+    .urru h3 i{
+        font-size: 25px;
+    }
+
+    .urru h3:hover{
+        background-color: #cfcdcd;
+    }
+
+    .urru .lll i{
+        color: white;
+        font-size: 40px;
+        text-align: center;
+        
+    }
+
+    .urru .lll{
+        text-align: center;
+     margin-left: -129px;
+    }
+
+  .lll  i:hover {
+        color: rgb(72, 68, 68);
+    }
+    .urru h4{
+        color: white;
+        font-family: sans-serif;
+        margin-left: 809px;
+    }

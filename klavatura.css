@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.cont{
+    width: 1200px;
+    height: 500px;
+    background-color: rgb(57, 53, 53);
+    border-radius: 20px;
+    text-align: center;
+    margin: 150px auto;
+    font-family: sans-serif;
+}
+.cont h4{
+    color: white;
+border: 1px solid black;
+width: 50px;
+height: 40px;
+background-color: black;
+line-height: 40px;
+margin: 50px 50px;
+}
+.te .bl{
+    width: 30px;
+    height: 30px;
+    border-radius: 80px;
+    background-color: black;
+    margin-left: 350px;
+}
+
+ i{
+    color: white;
+margin-top: -190px;
+margin-right: 400px;
+}
+
+.te .sh{
+    width: 30px;
+    height: 30px;
+    border-radius: 80px;
+    background-color: black;
+    margin-left: 450px;
+    margin-top: -40px
+}
+
+ .cont .cube i{
+
+}
